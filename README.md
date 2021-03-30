@@ -1,2 +1,2 @@
-# boit-BB
+# bot-BB
 to connect to bbcolab
